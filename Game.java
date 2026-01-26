@@ -5,6 +5,9 @@ public class Game {
 
     public static void main(String[] args) {
 
+        GameGUI gameGUI = new GameGUI();
+        gameGUI.setVisible(true);
+
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
@@ -40,7 +43,7 @@ public class Game {
             String play_again = scanner.next().toLowerCase();
 
             if (!play_again.equals("y")) {
-                System.out.println("Spiel beendet 👋");
+                System.out.println("Spiel beendet");
                 break;
             }
         }
