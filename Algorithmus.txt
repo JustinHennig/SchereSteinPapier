@@ -1,0 +1,31 @@
+1.Spiel starten
+Das Spiel wartet darauf, dass der Spieler eine Auswahl trifft.
+
+2.Spielerauswahl erfassen
+Der Spieler wählt Schere, Stein oder Papier (z. B. durch einen Buttonklick).
+
+3.Computerauswahl erzeugen
+Der Computer wählt zufällig eine der drei Möglichkeiten:
+Schere
+Stein
+Papier
+
+4.Auswahlen anzeigen
+Die Auswahl des Spielers wird angezeigt.
+Die Auswahl des Computers wird angezeigt.
+
+5.Ergebnis bestimmen
+Wenn beide dieselbe Auswahl haben → Ergebnis ist Unentschieden.
+Sonst prüfen:
+Schere schlägt Papier
+Stein schlägt Schere
+Papier schlägt Stein
+
+Trifft eine dieser Regeln auf den Spieler zu → Spieler gewinnt.
+Andernfalls → Computer gewinnt.
+
+6.Ergebnis anzeigen
+Das Ergebnis (Gewinn, Verlust oder Unentschieden) wird dem Spieler angezeigt.
+
+7.Runde endet
+Das Spiel ist bereit für eine neue Runde.
