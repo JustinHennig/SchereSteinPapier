@@ -2,7 +2,7 @@
 Das Spiel wartet darauf, dass der Spieler eine Auswahl trifft.
 
 2.Spielerauswahl erfassen
-Der Spieler wählt Schere, Stein oder Papier (z. B. durch einen Buttonklick).
+Der Spieler wählt Schere, Stein oder Papier durch einen Buttonklick.
 
 3.Computerauswahl erzeugen
 Der Computer wählt zufällig eine der drei Möglichkeiten:
