@@ -15,14 +15,14 @@ Die Auswahl des Spielers wird angezeigt.
 Die Auswahl des Computers wird angezeigt.
 
 5.Ergebnis bestimmen
-Wenn beide dieselbe Auswahl haben → Ergebnis ist Unentschieden.
+Wenn beide dieselbe Auswahl haben ist das Ergebnis unentschieden.
 Sonst prüfen:
 Schere schlägt Papier
 Stein schlägt Schere
 Papier schlägt Stein
 
-Trifft eine dieser Regeln auf den Spieler zu → Spieler gewinnt.
-Andernfalls → Computer gewinnt.
+Trifft eine dieser Regeln auf den Spieler zu gewinnt der Spieler.
+Andernfalls gewinnt der Computer.
 
 6.Ergebnis anzeigen
 Das Ergebnis (Gewinn, Verlust oder Unentschieden) wird dem Spieler angezeigt.
